@@ -1,4 +1,5 @@
 .terraform/
+.terraform.exe
 .terraform.lock.hcl
 terraform.tfstate*
 *.tfvars
